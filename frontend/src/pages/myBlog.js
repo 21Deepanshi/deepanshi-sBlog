@@ -21,7 +21,7 @@ const blogPosts = [
     "content": [
     {
       "heading": "Introduction",
-      "text": "When it comes to building websites, Content Management Systems (CMS) have made it easier than ever for individuals and businesses to establish an online presence. While there are many CMS platforms available today, WordPress continues to dominate the market—and for good reason."
+      "text": "When it comes to building websites, Content Management Systems (CMS) have made it easier than ever for individuals and businesses to establish an online presence. While there are many CMS platforms available today, WordPress continues to dominate the market and for good reason."
     },
     {
       "heading": "Market Share",
@@ -29,11 +29,11 @@ const blogPosts = [
     },
     {
       "heading": "Ease of Use",
-      "text": "One of the biggest reasons behind WordPress’s popularity is its beginner-friendly interface. Even non-technical users can build a professional website without coding knowledge. The dashboard is simple, and most tasks—like publishing a blog post or updating a page—can be done in just a few clicks."
+      "text": "One of the biggest reasons behind WordPress’s popularity is its beginner-friendly interface. Even non-technical users can build a professional website without coding knowledge. The dashboard is simple, and most tasks like publishing a blog post or updating a page can be done in just a few clicks."
     },
     {
       "heading": "Flexibility & Customization",
-      "text": "With thousands of themes and plugins, WordPress can power any type of site: blogs, business websites, e-commerce stores, portfolios, forums, membership platforms, and more. You’re never locked into a single style or function—WordPress can grow with your needs."
+      "text": "With thousands of themes and plugins, WordPress can power any type of site: blogs, business websites, e-commerce stores, portfolios, forums, membership platforms, and more. You’re never locked into a single style or function WordPress can grow with your needs."
     },
     {
       "heading": "Plugins: Endless Functionality",
